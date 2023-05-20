@@ -1,0 +1,6 @@
+﻿  HelloWorld.cpp
+C:\Users\Elyn\Downloads\ICS4U\2023 s3\2023 s3\HelloWorld.cpp(64,45): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\Elyn\Downloads\ICS4U\2023 s3\2023 s3\HelloWorld.cpp(76,45): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\Elyn\Downloads\ICS4U\2023 s3\2023 s3\HelloWorld.cpp(100,45): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\Elyn\Downloads\ICS4U\2023 s3\2023 s3\HelloWorld.cpp(112,45): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+  2023 s3.vcxproj -> C:\Users\Elyn\Downloads\ICS4U\2023 s3\x64\Debug\2023 s3.exe
